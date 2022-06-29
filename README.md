@@ -8,7 +8,8 @@
 - My skills include
   - HTML
   - CSS
-  - JS (With Frameworks and libraries)
+  - JS (With Frameworks and libraries like NODE, Express, JQuery, Bootstrap and React etc)
+  - JSON / XML
   - C / C++
   - Java
   - PHP
