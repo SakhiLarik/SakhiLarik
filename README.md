@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me
-  Twitter : https://twitter.com/SakhiLarik786
+  Twitter : https://twitter.com/SakhiLarik
 
 - My skills include
   - HTML
