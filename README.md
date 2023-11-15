@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sakhawat Ali Larik (Sakhi Larik) (@SakhiLarik)
-- 👀 I’m interested in Computer Technologies
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Web Development
+- 👋 Hi, I’m Sakhawat Ali Larik (Sakhi Larik) (@SakhiLarik) 👨🏻‍💻
+- 👀 I’m interested in Computer Technologies 🧑🏻‍💻🖥️, Data, and Artificial Intelligence 🤖🧠
+- 🌱 I’m currently learning and and Working on Data Analysis, Data and Machine Learning 📈📊🔍
+- 💞️ I’m looking to collaborate on Web Development, Data Analysis, Data Visualization
 - 📫 How to reach me
   Twitter : https://twitter.com/SakhiLarik
 
@@ -15,10 +15,14 @@
   - PHP
   - Databases (Relation With SQL, Non-Relational with MQL "Mongo Query Language")
   - Python
+  - Python Automation
   - Web Designing
   - Programming
   - Web Development (Front-end and Back-end web app development)
   - Freelancing
+  - Data Analysis
+  - Data Visualizing
+  - Dashboard Buildin
 
 <!---
 SakhiLarik/SakhiLarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
