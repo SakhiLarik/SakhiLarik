@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning and and Working on Data Analysis, Data and Machine Learning 📈📊🔍
 - 💞️ I’m looking to collaborate on Web Development, Data Analysis, Data Visualization
 - 📫 How to reach me
-  Twitter : https://twitter.com/SakhiLarik
+  Twitter : [https://twitter.com/SakhiLarik](https://twitter.com/SakhiLarik)
+  LinkedIn : [https://linkedin.com/sakhawat-ali-larik](https://www.linkedin.com/in/sakhawat-ali-larik)
 
 - My skills include
   - HTML
