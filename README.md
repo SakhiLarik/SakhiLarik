@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sakhi_larik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sakhi_larik" height="30" width="40" /></a>
+<a href="https://dev.to/sakhi_larik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sakhawatalilarik" height="30" width="40" /></a>
 <a href="https://twitter.com/sakhilarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakhilarik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakhawat-ali-larik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakhawat-ali-larik" height="30" width="40" /></a>
 <a href="https://kaggle.com/sakhawatalilarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sakhawatalilarik" height="30" width="40" /></a>
