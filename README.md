@@ -26,8 +26,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sakhi_larik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sakhawatalilarik" height="30" width="40" /></a>
+<p align="left" display="flex" style="display:flex;">
+<a href="https://dev.to/sakhawatalilarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sakhawatalilarik" height="30" width="40" /></a>
 <a href="https://twitter.com/sakhilarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakhilarik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakhawat-ali-larik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakhawat-ali-larik" height="30" width="40" /></a>
 <a href="https://kaggle.com/sakhawatalilarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sakhawatalilarik" height="30" width="40" /></a>
@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="center" display="flex" style="display:flex;">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
