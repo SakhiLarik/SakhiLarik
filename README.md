@@ -21,4 +21,4 @@
 
 
 # 🔥 Streak
-![](https://github-readme-streak-stats.herokuapp.com?user=sakhilarik&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=200)
+![](https://github-readme-streak-stats.herokuapp.com?user=sakhilarik)
