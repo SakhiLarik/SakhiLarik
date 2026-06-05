@@ -20,16 +20,5 @@
 - ⚡ Fun fact **I learn and work daily with the latest tools and tech stacks**
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sakhilarik&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sakhilarik&theme=default&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sakhilarik&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakhilarik&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+# 🔥 Streak
+![](https://github-readme-streak-stats.herokuapp.com?user=sakhilarik&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=200)
