@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakhawat Ali Larik</h1>
-<h3 align="center">A passionate fullstack web devloper from Pakistan</h3>
+<h3 align="center">A passionate fullstack web devloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhilarik&label=Profile%20views&color=0e75b6&style=flat" alt="sakhilarik" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Web and Blockchain Projects**
 
-- 🌱 I’m currently learning **Web Frameworks, Blockchain Technology, and Machine Learining**
+- 🌱 I’m currently learning **Web Frameworks, Blockchain Technology, and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakhiLarik](https://github.com/SakhiLarik)
 
 - 💬 Ask me about **Web Development, Blockchain Development, and Programming**
 
-- 📫 How to reach me **sakhawatalilarik@gmail.com**
+- 📫 How to reach me: **[sakhawatalilarik@gmail.com](mailto:sakhawatalilarik@gmail.com)**
 
 - 🌐 Personal Portfolio Website [Sakhawat Ali Larik](https://sakhawatalilarik.com/)
 
